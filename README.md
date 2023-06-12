@@ -1,2 +1,2 @@
-# react-sonido
-Como Agregar Sonido en React
+# Como Agregar Sonido en React 
+Tutorial: https://youtu.be/DKTL8TMGRYc 
